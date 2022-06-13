@@ -5,8 +5,7 @@
  </p>
 
  # 🚫 404 Glitch 🚫
-____________________
+ 
 As part of my training, I recreated a 404 error page as a review.
 
-
-<img src="image/Capture.jpeg" width="800">
+<img src="Image/Capture.jpeg" width="800">
