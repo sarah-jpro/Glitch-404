@@ -6,6 +6,15 @@
 
  # 🚫 404 Glitch 🚫
  
-As part of my training, I recreated a 404 error page as a review.
+As part of my training, I recreated a animate 404 error page as a review. It'sanimation on scroll
 
+Languages:
+----------
+- HTML 5
+- CSS 3
+
+
+# Overview 🔎
+
+## 🪵 View animation : ➡️ 
 <img src="Image/Capture.jpeg" width="800">
