@@ -12,9 +12,10 @@ Languages:
 ----------
 - HTML 5
 - CSS 3
+- JavaScript
 
 
 # Overview 🔎
 
-## 🪵 View animation : ➡️ 
+## 🪵 View animation : ➡️ https://sarah-jpro.github.io/Glitch-404/
 <img src="Image/Capture.jpeg" width="800">
